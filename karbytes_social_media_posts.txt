@@ -1,3 +1,5 @@
+
+
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
@@ -99,3 +101,9 @@ https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-sy
 On 08_MAY_2024 at approximately 4:30AM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
 https://singularityhub.com/2024/05/07/ai-can-now-generate-entire-songs-on-demand-what-does-this-mean-for-music-as-we-know-it/
+
+* * *
+
+On 08_MAY_2024 at approximately 10:00PM Pacific Standard Time, karbytes deleted the social media post linking to the following karbytes-created web page from karbytes' Twitter dot Com page, from karbytes' Minds dot Com page, from karbytes' LinkedIn dot Com page, and from karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/proposed_principles_of_global_governance/
