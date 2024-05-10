@@ -1,0 +1,30 @@
+/** 
+ * file: chatgpt_and_karbytes_converse_10_may_2024.txt
+ * type: plain-text
+ * date: 10_MAY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 10_MAY_2024 at approximately 7:30AM Pacific Standard Time.
+
+* * *
+
+User
+
+How many humans are currently inhabiting Planet Earth today?
+
+ChatGPT
+
+The current global population is approximately 8.1 billion, based on data from the United Nations and other demographic sources. This population figure continues to grow, albeit at a slowing rate. Projections indicate that the population will peak at around 10.4 billion in the 2080s before stabilizing by the end of the century. However, it's important to note that these projections come with inherent uncertainties due to changing fertility, mortality, and migration rates across different regions. Current demographic trends show that growth will primarily be driven by high birth rates in lower-income nations, while migration will increasingly influence population growth in high-income countries.
+
+For a live population count and detailed demographic data, you can refer to the U.S. Census Bureau's World Population Clock or Worldometer's real-time estimates. (Country Meters) (Science News) (Census.gov)​.
+User
+
+What percentage of all organisms living on Planet Earth today are humans?
+
+ChatGPT
+
+Humans account for just 0.01% of the total biomass on Earth, which consists of 546 billion tons of carbon. This proportion highlights the relatively small physical presence of humans compared to other life forms. Plants dominate Earth's biomass, representing over 82% of the total. Bacteria also have a significant presence, constituting around 13% of the global biomass.
+
+Despite their small proportion of total biomass, humans have had an outsized impact on the environment. Our activities have significantly shifted the distribution of animal life, especially through the domestication of livestock. Human livestock makes up about 60% of the world's mammal biomass, while wild mammals only account for about 4% of this category (Smithsonian Magazine)​​ (Our World in Data) (DW)​.
