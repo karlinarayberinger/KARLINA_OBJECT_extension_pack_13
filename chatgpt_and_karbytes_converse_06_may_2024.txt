@@ -1,10 +1,16 @@
 /** 
  * file: chatgpt_and_karbytes_converse_06_may_2024.txt
  * type: plain-text
- * date: 06_MAY_2024
+ * date: 10_MAY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
+
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 06_MAY_2024 at approximately 3:30PM Pacific Standard Time.
+
+(Note that, like the plain-text file at the following Uniform Resource Locator, this plain-text file also does not have a corresponding HyperText Markup Language (HTML) file because each of those two plain-text files were copied from ChatGPT chat sessions in which no hypertext was present: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_and_karbytes_converse_about_dying_of_old_age_and_telomeres_04may2024.txt).
+
+* * *
 
 User
 
